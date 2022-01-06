@@ -1,5 +1,5 @@
 # DataMinig
-Notre data contient 76 attributes elle s'appuie sur des recherche faite sur la cardiopathie,elle contient comme colonnes:
+Notre data contient 76 attributs elle s'appuie sur des recherche faite sur la cardiopathie,elle contient comme colonnes:
 1)age
 2)sex
 3)chest pain type (4 values)
